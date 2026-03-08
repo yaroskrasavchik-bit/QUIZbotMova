@@ -9,7 +9,7 @@ from telebot import types
 import html
 
 import os
-TOKEN = os.environ.get("BOT_TOKEN", "8141899217:AAE5MLvsdRG5-mLcw9P-652paocFNvZ9lEg")
+TOKEN = os.environ.get("BOT_TOKEN", "8271172123:AAE3YJnkXVlTX1PsaiPn0iHagbNRiPeP8A8")
 QUESTIONS_FILE = "questions.json"
 USERS_FILE = "users.json"
 ADMIN_FILE = "admin.json"
